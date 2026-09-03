@@ -2,7 +2,6 @@
 
 Repositório com as soluções dos 5 exercícios da atividade de **Estrutura de Dados II (EDII)** do curso de **Tecnologia em Análise e Desenvolvimento de Sistemas — IFTM Campus Patrocínio**.
 
-A atividade foi disponibilizada em 26/08/2026 e a entrega está prevista para 09/09/2026.
 
 ## 📚 Sobre o projeto
 
@@ -1082,8 +1081,4 @@ Executa a lógica do Insertion Sort → cada deslocamento representa uma invers�
 
 A atividade limita `N` a até `10^4` nas questões apresentadas e define os valores de `k` conforme cada exercício.
 
----
 
-## 👩‍💻 Autor
-
-Projeto desenvolvido para a disciplina de **Estrutura de Dados II — IFTM Campus Patrocínio**.
